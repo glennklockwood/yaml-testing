@@ -1,0 +1,19 @@
+---
+this:
+ - list
+ - of
+ - items
+list_of_maps:
+ - item1: value1
+   object1: data1
+ - item2: value2
+   object2: data2
+---
+this: is
+a: second
+   document?
+list_of_ints:
+ - 1
+ - 2
+ - 3
+---
