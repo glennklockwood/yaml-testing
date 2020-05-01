@@ -1,3 +1,6 @@
+/*
+ * Largely stolen from https://www.wpsoftware.net/andrew/pages/libyaml.html
+ */
 #include <stdio.h>
 #include <yaml.h>
 

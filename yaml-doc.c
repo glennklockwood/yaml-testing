@@ -1,3 +1,6 @@
+/*
+ *  Largely stolen from https://stackoverflow.com/questions/36410122/c-libyaml-document-based-parsing
+ */
 #include <stdio.h>
 #include <yaml.h>
 
